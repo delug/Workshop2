@@ -13,6 +13,9 @@ techniques employed in DL. In order to extend that, we will dive into the math t
 3. Run `jupyter notebook` and navigate to where you cloned the workshop repository
 4. Open the notebook and enjoy!
 
+Note: Before the workshop, please make sure you have the most up-to-date version of this repository. This can be assured by running `git pull`
+within the repository close to the workshop day. Preferably the day of, just to be safe!
+
 # Required Software
 
 Before coming to the workshop, please ensure that you have the following softwares downloaded:

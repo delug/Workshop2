@@ -9,7 +9,7 @@ techniques employed in DL. In order to extend that, we will dive into the math t
 # Installation
 
 1. While in your command line, move to a directory that you want to clone the workshop into.
-2. Simply type `git clone [workshop URL]` in your command line to clone the repository
+2. Simply type `git clone https://github.com/delug/Workshop2.git` in your command line to clone the repository
 3. Run `jupyter notebook` and navigate to where you cloned the workshop repository
 4. Open the notebook and enjoy!
 

@@ -1,8 +1,8 @@
 # The Mathematics Behind Data Science
 
 This workshop will cover material ranging from what a vector is all the way to L<sup>p</sup> norms, loss functions, and gradient descent!
-We want to emphasize that a strong math background is not required for this workshop, as we'll be presenting the material in a deep-learning
-oriented way. That means that we will introduce material both in terms of what you may code up in any given project, and the abstract math
+We want to emphasize that a strong math background is not required for this workshop, as we'll be presenting the material in a beginner
+oriented, hands-on way. That means that we will introduce material both in terms of what you may code up in any given project, and the abstract math
 objects which represent them. In the simplest case, a vector can be described as a 1D array, but that's not enough to justify many of the
 techniques employed in DL. In order to extend that, we will dive into the math that powers the code.
 

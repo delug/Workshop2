@@ -1,3 +1,5 @@
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/delug/Workshop2/master)
+
 # The Mathematics Behind Data Science
 
 This workshop will cover material ranging from what a vector is all the way to L<sup>p</sup> norms, loss functions, and gradient descent!

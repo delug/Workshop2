@@ -41,4 +41,19 @@ is of the highest possible quality, but that requires help from you! If you've g
 take the survey below to share your feedback with us. We go through every single response and work to meet your needs. Please fill
 out the survey in the link below!
 
-https://tinyurl.com/y39b87uy
+https://forms.gle/J9Ge5CuJMS551Xs46
+
+
+# Workshop Series
+
+1. [Intro to Python, Git, and Data Science](https://github.com/delug/Workshop1)
+
+2. [The Mathematics Behind Data Science](https://github.com/delug/Workshop2)
+
+3. [Data Science Techniques and Algorithms](https://github.com/delug/Workshop3)
+
+4. [Intro to Neural Networks](https://github.com/delug/Workshop4)
+
+5. [Layers, Modules & More](https://github.com/delug/Workshop5)
+
+6. [Neural Models and Architectures](https://github.com/delug/Workshop6)
